@@ -5,6 +5,7 @@
   "dependencies": {},
   "devDependencies": {
     "gulp": "~3.8.10",
-    "browser-sync": "~2.0.0-rc8"
+    "browser-sync": "~2.0.0-rc8",
+    "gulp-watch": "~4.1.0"
   }
 }

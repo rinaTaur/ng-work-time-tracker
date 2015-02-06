@@ -16,3 +16,4 @@ angular.module('workTimeTrackerApp', ['ui.bootstrap', 'ngRoute', 'ngAnimate']).c
       redirectTo: '/'
     });
 }]);
+ 
