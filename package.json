@@ -1,0 +1,10 @@
+{
+  "name": "ng-work-time-tracker",
+  "description": "A package using versioning best-practices",
+  "author": "Charlie Robbins <charlie@nodejitsu.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.8.10",
+    "browser-sync": "~2.0.0-rc8"
+  }
+}
