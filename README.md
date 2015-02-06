@@ -1,9 +1,9 @@
 Dev-Club Timetracker Challenge
 ====================
 
-Simple time tracker that makes it easy to record what are you doing at office
+Simple time tracker that makes it easy to record time without hurting the user
 
-It's prototype of time tracker app that has been written with angular.js for fun.
+Winning entry DOES NOT need to use this as a starting point, but it is a nice clean Angular project with a simple Gulpfile to help you develop.
 
 ### [Demo](http://dmytroyarmak.github.io/ng-work-time-tracker) 
 
