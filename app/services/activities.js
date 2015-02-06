@@ -24,6 +24,7 @@ angular.module('workTimeTrackerApp').factory('activities', ['flipClock', '$rootS
   activities.push(new Activity('Web surfing', 'success',  60*100));
   activities.push(new Activity('Off-topic',   'warning',  60*45 ));
   activities.push(new Activity('Consulting',  'danger',   60*140));
+  activities.push(new Activity('Goofing off',  'success',   60*140));
 
   return {
     getAll: function() {
