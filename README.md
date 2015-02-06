@@ -9,7 +9,7 @@ Winning entry DOES NOT need to use this as a starting point, but it is a nice cl
 
 To build:
 
-1) clone the project
-2) ```npm install``` - install dev dependencies (gulp, etc)
-3) ```bower install``` - install front end dependencies
-4) ```gulp``` - this will serve your project locally and watch for changes
+1. clone the project
+2. ```npm install``` - install dev dependencies (gulp, etc)
+3. ```bower install``` - install front end dependencies
+4. ```gulp``` - this will serve your project locally and watch for changes
