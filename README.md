@@ -5,7 +5,7 @@ Simple time tracker that makes it easy to record time without hurting the user
 
 Winning entry DOES NOT need to use this as a starting point, but it is a nice clean Angular project with a simple Gulpfile to help you develop.
 
-### [Demo](http://dmytroyarmak.github.io/ng-work-time-tracker) 
+### [Demo](http://rinataur.github.io/ng-work-time-tracker) 
 
 To build:
 
